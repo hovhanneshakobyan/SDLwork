@@ -1,0 +1,1 @@
+# you must install SDL libriaries and build and then compile file and enjoy)
